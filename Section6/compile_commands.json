@@ -1,0 +1,25 @@
+[{
+  "file": "C:\\Users\\Caplogy_Data_002\\Workspaces\\Section6\\ChallengeSolution\\main.cpp",
+  "directory": "C:\\Users\\Caplogy_Data_002\\Workspaces\\Section6\\ChallengeSolution",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\Caplogy_Data_002\\Workspaces\\Section6\\ChallengeSolution\\main.cpp -o C:\\Users\\Caplogy_Data_002\\Workspaces\\Section6\\ChallengeSolution\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\Caplogy_Data_002\\Workspaces\\Section6\\SizeofOperator\\main.cpp",
+  "directory": "C:\\Users\\Caplogy_Data_002\\Workspaces\\Section6\\SizeofOperator",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\Caplogy_Data_002\\Workspaces\\Section6\\SizeofOperator\\main.cpp -o C:\\Users\\Caplogy_Data_002\\Workspaces\\Section6\\SizeofOperator\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\Caplogy_Data_002\\Workspaces\\Section6\\PrimitiveTypes\\main.cpp",
+  "directory": "C:\\Users\\Caplogy_Data_002\\Workspaces\\Section6\\PrimitiveTypes",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\Caplogy_Data_002\\Workspaces\\Section6\\PrimitiveTypes\\main.cpp -o C:\\Users\\Caplogy_Data_002\\Workspaces\\Section6\\PrimitiveTypes\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\Caplogy_Data_002\\Workspaces\\Section6\\Constants\\main.cpp",
+  "directory": "C:\\Users\\Caplogy_Data_002\\Workspaces\\Section6\\Constants",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\Caplogy_Data_002\\Workspaces\\Section6\\Constants\\main.cpp -o C:\\Users\\Caplogy_Data_002\\Workspaces\\Section6\\Constants\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\Caplogy_Data_002\\Workspaces\\Section6\\GlobalVariables\\main.cpp",
+  "directory": "C:\\Users\\Caplogy_Data_002\\Workspaces\\Section6\\GlobalVariables",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\Caplogy_Data_002\\Workspaces\\Section6\\GlobalVariables\\main.cpp -o C:\\Users\\Caplogy_Data_002\\Workspaces\\Section6\\GlobalVariables\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\Caplogy_Data_002\\Workspaces\\Section6\\InitializingVariables\\main.cpp",
+  "directory": "C:\\Users\\Caplogy_Data_002\\Workspaces\\Section6\\InitializingVariables",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\Caplogy_Data_002\\Workspaces\\Section6\\InitializingVariables\\main.cpp -o C:\\Users\\Caplogy_Data_002\\Workspaces\\Section6\\InitializingVariables\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }]

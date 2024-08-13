@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section14" Database="" Version="10000">
+  <Project Name="Mystring-start" Path="Mystring-start/Mystring-start.project" Active="No"/>
+  <Project Name="Mystring-copy-assignment" Path="Mystring-copy-assignment/Mystring-copy-assignment.project" Active="No"/>
+  <Project Name="Mystring-move-assignment" Path="Mystring-move-assignment/Mystring-move-assignment.project" Active="No"/>
+  <Project Name="Mystring-operator-methods" Path="Mystring-operator-methods/Mystring-operator-methods.project" Active="No"/>
+  <Project Name="Mystring-operator-functions" Path="Mystring-operator-functions/Mystring-operator-functions.project" Active="No"/>
+  <Project Name="Mystring-insertion-extraction" Path="Mystring-insertion-extraction/Mystring-insertion-extraction.project" Active="Yes"/>
+  <Project Name="Challenge" Path="Challenge/Challenge.project"/>
+  <Project Name="ChallengeSolution1" Path="ChallengeSolution1/ChallengeSolution1.project"/>
+  <Project Name="ChallengeSolution2" Path="ChallengeSolution2/ChallengeSolution2.project"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Mystring-start" ConfigName="Debug"/>
+      <Project Name="Mystring-copy-assignment" ConfigName="Debug"/>
+      <Project Name="Mystring-move-assignment" ConfigName="Debug"/>
+      <Project Name="Mystring-operator-methods" ConfigName="Debug"/>
+      <Project Name="Mystring-operator-functions" ConfigName="Debug"/>
+      <Project Name="Mystring-insertion-extraction" ConfigName="Debug"/>
+      <Project Name="Challenge" ConfigName="Debug"/>
+      <Project Name="ChallengeSolution1" ConfigName="Debug"/>
+      <Project Name="ChallengeSolution2" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Mystring-start" ConfigName="Release"/>
+      <Project Name="Mystring-copy-assignment" ConfigName="Release"/>
+      <Project Name="Mystring-move-assignment" ConfigName="Release"/>
+      <Project Name="Mystring-operator-methods" ConfigName="Release"/>
+      <Project Name="Mystring-operator-functions" ConfigName="Release"/>
+      <Project Name="Mystring-insertion-extraction" ConfigName="Release"/>
+      <Project Name="Challenge" ConfigName="Release"/>
+      <Project Name="ChallengeSolution1" ConfigName="Release"/>
+      <Project Name="ChallengeSolution2" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

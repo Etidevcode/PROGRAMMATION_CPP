@@ -1,0 +1,57 @@
+[{
+  "file": "C:\\Users\\Caplogy_Data_002\\Workspaces\\Section9\\ChallengeSolution\\main.cpp",
+  "directory": "C:\\Users\\Caplogy_Data_002\\Workspaces\\Section9\\ChallengeSolution",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\Caplogy_Data_002\\Workspaces\\Section9\\ChallengeSolution\\main.cpp -o C:\\Users\\Caplogy_Data_002\\Workspaces\\Section9\\ChallengeSolution\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\Caplogy_Data_002\\Workspaces\\Section9\\Histogram\\main.cpp",
+  "directory": "C:\\Users\\Caplogy_Data_002\\Workspaces\\Section9\\Histogram",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\Caplogy_Data_002\\Workspaces\\Section9\\Histogram\\main.cpp -o C:\\Users\\Caplogy_Data_002\\Workspaces\\Section9\\Histogram\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\Caplogy_Data_002\\Workspaces\\Section9\\MultiplicationTable\\main.cpp",
+  "directory": "C:\\Users\\Caplogy_Data_002\\Workspaces\\Section9\\MultiplicationTable",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\Caplogy_Data_002\\Workspaces\\Section9\\MultiplicationTable\\main.cpp -o C:\\Users\\Caplogy_Data_002\\Workspaces\\Section9\\MultiplicationTable\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\Caplogy_Data_002\\Workspaces\\Section9\\DoWhile\\main.cpp",
+  "directory": "C:\\Users\\Caplogy_Data_002\\Workspaces\\Section9\\DoWhile",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\Caplogy_Data_002\\Workspaces\\Section9\\DoWhile\\main.cpp -o C:\\Users\\Caplogy_Data_002\\Workspaces\\Section9\\DoWhile\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\Caplogy_Data_002\\Workspaces\\Section9\\IfStatement\\main.cpp",
+  "directory": "C:\\Users\\Caplogy_Data_002\\Workspaces\\Section9\\IfStatement",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\Caplogy_Data_002\\Workspaces\\Section9\\IfStatement\\main.cpp -o C:\\Users\\Caplogy_Data_002\\Workspaces\\Section9\\IfStatement\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\Caplogy_Data_002\\Workspaces\\Section9\\ForLoop\\main.cpp",
+  "directory": "C:\\Users\\Caplogy_Data_002\\Workspaces\\Section9\\ForLoop",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\Caplogy_Data_002\\Workspaces\\Section9\\ForLoop\\main.cpp -o C:\\Users\\Caplogy_Data_002\\Workspaces\\Section9\\ForLoop\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\Caplogy_Data_002\\Workspaces\\Section9\\ConditionalOperator\\main.cpp",
+  "directory": "C:\\Users\\Caplogy_Data_002\\Workspaces\\Section9\\ConditionalOperator",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\Caplogy_Data_002\\Workspaces\\Section9\\ConditionalOperator\\main.cpp -o C:\\Users\\Caplogy_Data_002\\Workspaces\\Section9\\ConditionalOperator\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\Caplogy_Data_002\\Workspaces\\Section9\\Shipping\\main.cpp",
+  "directory": "C:\\Users\\Caplogy_Data_002\\Workspaces\\Section9\\Shipping",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\Caplogy_Data_002\\Workspaces\\Section9\\Shipping\\main.cpp -o C:\\Users\\Caplogy_Data_002\\Workspaces\\Section9\\Shipping\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\Caplogy_Data_002\\Workspaces\\Section9\\WhileLoop\\main.cpp",
+  "directory": "C:\\Users\\Caplogy_Data_002\\Workspaces\\Section9\\WhileLoop",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\Caplogy_Data_002\\Workspaces\\Section9\\WhileLoop\\main.cpp -o C:\\Users\\Caplogy_Data_002\\Workspaces\\Section9\\WhileLoop\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\Caplogy_Data_002\\Workspaces\\Section9\\Grades\\main.cpp",
+  "directory": "C:\\Users\\Caplogy_Data_002\\Workspaces\\Section9\\Grades",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\Caplogy_Data_002\\Workspaces\\Section9\\Grades\\main.cpp -o C:\\Users\\Caplogy_Data_002\\Workspaces\\Section9\\Grades\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\Caplogy_Data_002\\Workspaces\\Section9\\RangeBasedForLoop\\main.cpp",
+  "directory": "C:\\Users\\Caplogy_Data_002\\Workspaces\\Section9\\RangeBasedForLoop",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\Caplogy_Data_002\\Workspaces\\Section9\\RangeBasedForLoop\\main.cpp -o C:\\Users\\Caplogy_Data_002\\Workspaces\\Section9\\RangeBasedForLoop\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\Caplogy_Data_002\\Workspaces\\Section9\\IfElseStatement\\main.cpp",
+  "directory": "C:\\Users\\Caplogy_Data_002\\Workspaces\\Section9\\IfElseStatement",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\Caplogy_Data_002\\Workspaces\\Section9\\IfElseStatement\\main.cpp -o C:\\Users\\Caplogy_Data_002\\Workspaces\\Section9\\IfElseStatement\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\Caplogy_Data_002\\Workspaces\\Section9\\SwitchEnum\\main.cpp",
+  "directory": "C:\\Users\\Caplogy_Data_002\\Workspaces\\Section9\\SwitchEnum",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\Caplogy_Data_002\\Workspaces\\Section9\\SwitchEnum\\main.cpp -o C:\\Users\\Caplogy_Data_002\\Workspaces\\Section9\\SwitchEnum\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "C:\\Users\\Caplogy_Data_002\\Workspaces\\Section9\\Switch\\main.cpp",
+  "directory": "C:\\Users\\Caplogy_Data_002\\Workspaces\\Section9\\Switch",
+  "command": "C:/mingw64/bin/g++.exe -c C:\\Users\\Caplogy_Data_002\\Workspaces\\Section9\\Switch\\main.cpp -o C:\\Users\\Caplogy_Data_002\\Workspaces\\Section9\\Switch\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }]

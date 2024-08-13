@@ -1,0 +1,1 @@
+../build-Debug/ScopeEnums/main.cpp.o   

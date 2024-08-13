@@ -1,0 +1,1 @@
+../build-Debug/StafeulLambdas/main.cpp.o   

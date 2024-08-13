@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section18" Database="" Version="10000">
+  <Project Name="MPG" Path="MPG/MPG.project" Active="No"/>
+  <Project Name="MPGException" Path="MPGException/MPGException.project" Active="No"/>
+  <Project Name="MPGFunction" Path="MPGFunction/MPGFunction.project" Active="No"/>
+  <Project Name="MPGFunctionMultipleExceptions" Path="MPGFunctionMultipleExceptions/MPGFunctionMultipleExceptions.project" Active="No"/>
+  <Project Name="StackUnwinding" Path="StackUnwinding/StackUnwinding.project" Active="No"/>
+  <Project Name="MPGFunctionExceptionClasses" Path="MPGFuctionsExceptionClasses/MPGFuctionsExceptionClasses.project" Active="No"/>
+  <Project Name="ConstructorException" Path="ConstructorException/ConstructorException.project" Active="No"/>
+  <Project Name="MPGRethrow" Path="MPGRethrow/MPGRethrow.project" Active="No"/>
+  <Project Name="MilesPerGallonFunction" Path="MilesPerGallonFunction/MilesPerGallonFunction.project" Active="No"/>
+  <Project Name="MilesPerGallonFunctionExceptionClasses" Path="MilesPerGallonFunctionExceptionClasses/MilesPerGallonFunctionExceptionClasses.project" Active="No"/>
+  <Project Name="Challenge" Path="Challenge/Challenge.project" Active="No"/>
+  <Project Name="ChallengeSolution" Path="ChallengeSolution/ChallengeSolution.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="MPG" ConfigName="Debug"/>
+      <Project Name="MPGException" ConfigName="Debug"/>
+      <Project Name="MPGFunction" ConfigName="Debug"/>
+      <Project Name="MPGFunctionMultipleExceptions" ConfigName="Debug"/>
+      <Project Name="StackUnwinding" ConfigName="Debug"/>
+      <Project Name="MPGFunctionExceptionClasses" ConfigName="Debug"/>
+      <Project Name="ConstructorException" ConfigName="Debug"/>
+      <Project Name="MPGRethrow" ConfigName="Debug"/>
+      <Project Name="MilesPerGallonFunction" ConfigName="Debug"/>
+      <Project Name="MilesPerGallonFunctionExceptionClasses" ConfigName="Debug"/>
+      <Project Name="Challenge" ConfigName="Debug"/>
+      <Project Name="ChallengeSolution" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="MPG" ConfigName="Release"/>
+      <Project Name="MPGException" ConfigName="Release"/>
+      <Project Name="MPGFunction" ConfigName="Release"/>
+      <Project Name="MPGFunctionMultipleExceptions" ConfigName="Release"/>
+      <Project Name="StackUnwinding" ConfigName="Release"/>
+      <Project Name="MPGFunctionExceptionClasses" ConfigName="Release"/>
+      <Project Name="ConstructorException" ConfigName="Release"/>
+      <Project Name="MPGRethrow" ConfigName="Release"/>
+      <Project Name="MilesPerGallonFunction" ConfigName="Release"/>
+      <Project Name="MilesPerGallonFunctionExceptionClasses" ConfigName="Release"/>
+      <Project Name="Challenge" ConfigName="Release"/>
+      <Project Name="ChallengeSolution" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
